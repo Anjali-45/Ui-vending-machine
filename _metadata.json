@@ -1,0 +1,52 @@
+{
+  "hash": "e9767604",
+  "configHash": "8503c2c7",
+  "lockfileHash": "36230449",
+  "browserHash": "794583f4",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "5a71d402",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "bab72ecf",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "46874bcd",
+      "needsInterop": true
+    },
+    "html5-qrcode": {
+      "src": "../../html5-qrcode/esm/index.js",
+      "file": "html5-qrcode.js",
+      "fileHash": "5e1d0505",
+      "needsInterop": false
+    },
+    "papaparse": {
+      "src": "../../papaparse/papaparse.min.js",
+      "file": "papaparse.js",
+      "fileHash": "902155d4",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "49ce964b",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-CANBAPAS": {
+      "file": "chunk-CANBAPAS.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
